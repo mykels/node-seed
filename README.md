@@ -17,4 +17,4 @@ It's been designed to provide you with a super fast test driven back-end develop
 ## Getting Started
 1. `$ npm install`
 4. `$ npm start`
-5. Go to: `http://localhost:3000`. Your express server runs on port `3000` by default.
+5. Go to: `http://localhost:3000`
