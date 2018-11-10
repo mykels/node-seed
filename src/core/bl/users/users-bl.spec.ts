@@ -1,5 +1,4 @@
 import {UsersBl} from "./users-bl";
-import {Calculator} from "../calculator/calculator";
 
 /**
  *  Example with static classes and spies
