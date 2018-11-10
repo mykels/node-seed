@@ -1,4 +1,5 @@
 import {UsersBl} from "./users-bl";
+import { Calculator } from "../calculator/calculator";
 
 /**
  *  Example with static classes and spies
@@ -6,7 +7,7 @@ import {UsersBl} from "./users-bl";
 
 describe('users', () => {
     test('should return users on GetUsers', () => {
-        expect(UsersBl.getUsers()).toEqual(["micha", "yifat"]);
+        expect(UsersBl.getUsers()).toEqual(["Fredy", "Mercury"]);
     });
 
     test('show call add', () => {
