@@ -8,14 +8,13 @@ It's been designed to provide you with a super fast test driven back-end develop
 
 ## Highlights
 * Typescript integration.
-* Server with Live Restart using nodemon.
-* Unit Testing with Jest.
+* Live Restart using nodemon.
+* Unit Testing using Jest.
 * Logging using winston
 * tslint integration using airbnb preset
 
 
 ## Getting Started
-
 1. `$ npm install`
 4. `$ npm start`
 5. Go to: `http://localhost:3000`. Your express server runs on port `3000` by default.
