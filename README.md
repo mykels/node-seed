@@ -12,7 +12,7 @@ It's been designed to provide you with a super fast test driven back-end develop
 * Unit Testing using Jest.
 * Logging using winston
 * tslint integration using airbnb preset
-
+* Basic routing configuration
 
 ## Getting Started
 1. `$ npm install`
